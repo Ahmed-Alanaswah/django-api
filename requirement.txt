@@ -1,0 +1,5 @@
+asgiref @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/c3/92/1c/3d42ce7ad1e9e2aa1621c3fa8ebc5e21bd880a768bd691fb4f0356baa8/asgiref-3.4.1-py3-none-any.whl
+Django @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/7e/52/71/284f10e2381579f19051838f629fa960ff1e3e3050c51bfc1ce60f102e/Django-4.0-py3-none-any.whl
+djangorestframework @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/4a/0e/8b/eb31ad1f5a8d0aef287e2de8aeed7d250803677468c74b0abd296678b8/djangorestframework-3.13.1-py3-none-any.whl
+pytz @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/3e/f3/dd/6629bf5ed0a970a128e0a015f2af3b67280e749a56fdaabdaa06d5fc6b/pytz-2021.3-py2.py3-none-any.whl
+sqlparse @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/ea/fd/ba/117a876397913faee210ef8bac93829e22ad9232662e656971383c0718/sqlparse-0.4.2-py3-none-any.whl
