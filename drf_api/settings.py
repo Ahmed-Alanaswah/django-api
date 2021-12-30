@@ -40,7 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'core'
+    
+    'rest_framework.authtoken',
+    'core',
+    'rest_auth'
 ]
 
 MIDDLEWARE = [
@@ -132,3 +135,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
 #     ]
 # }
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATON_CLASSES':[
+        'restframework.authentication.TokenAuthentication'
+    ]
+}
